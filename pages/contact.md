@@ -8,8 +8,6 @@ intro_paragraph: |-
 
   Campo Grande/MS
 
-
-
   Telefone: (67) 3345-7712
   
 ---
