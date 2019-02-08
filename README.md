@@ -1,5 +1,7 @@
 # Jekyll Netlify Boilerplate
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/060f1c1d-c03f-4e06-97c5-6b3e527f6bb6/deploy-status)](https://app.netlify.com/sites/lca-ufms/deploys)
+
 *Note: Check out my [Eleventy Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) if you want to get with the cool kids; it does the same as this project but uses the [Eleventy](https://www.11ty.io/) static site generator, is super flexible and doesn't require Ruby.*
 
 **A really simple Jekyll template for creating a fast, static website on Netlify with
